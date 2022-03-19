@@ -35,7 +35,6 @@ Oh! It is in the cache!
 
 You received 8.38 EUR.
 
-
 **Example 2:**
 
 > USD
