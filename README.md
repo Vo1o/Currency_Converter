@@ -5,11 +5,10 @@ The Currency Converter is a simple console program that calculates the amount of
 ## Examples
 
 **Example 1:**
-`
 > ILS
 > USD
 > 45
-Checking the cache...
+`Checking the cache...`
 Oh! It is in the cache!
 You received 13.84 USD.
 > RSD
