@@ -5,7 +5,8 @@ The Currency Converter is a simple console program that calculates the amount of
 ## Examples
 
 **Example 1:**
-`> ILS
+`
+> ILS
 > USD
 > 45
 Checking the cache...
